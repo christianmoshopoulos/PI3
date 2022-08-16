@@ -1,6 +1,6 @@
 # Projeto integrado 3
-Pojeto para controle de estoque e vendas
-Criado no Visual studio em C# utilizando o forms
+Pojeto para controle de estoque e vendas, criado no Visual studio em C# utilizando o forms
+
 
 
 O arquivo DATABASE-BANCODEDADOS_db_conexao-PI-3S.sql fornece passo a passo a criação do banco de dados

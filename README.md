@@ -1,4 +1,4 @@
-# PI_Entrega
+# Projeto integrado 3
 Pojeto para controle de estoque e vendas
 Criado no Visual studio em C# utilizando o forms
 
